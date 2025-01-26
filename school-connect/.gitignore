@@ -1,0 +1,16 @@
+# Exclude virtual environments
+.venv/
+
+# Exclude large files or directories
+*.pyc
+__pycache__/
+*.log
+*.sqlite3
+
+# Node modules (if applicable)
+node_modules/
+
+# Ignore temporary files
+*.tmp
+.DS_Store
+Thumbs.db

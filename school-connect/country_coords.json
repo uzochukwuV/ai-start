@@ -1,0 +1,234 @@
+{
+    "Bogota": {
+        "latitude": 4.6533816,
+        "longitude": -74.0836333
+    },
+    "Miami": {
+        "latitude": 25.7820042,
+        "longitude": -80.22256438834017
+    },
+    "Mexico City": {
+        "latitude": 19.4326296,
+        "longitude": -99.1331785
+    },
+    "Lagos": {
+        "latitude": 6.4550575,
+        "longitude": 3.3941795
+    },
+    "Belgrade": {
+        "latitude": 44.8178131,
+        "longitude": 20.4568974
+    },
+    "Podgorica": {
+        "latitude": 42.4415238,
+        "longitude": 19.2621081
+    },
+    "Amsterdam": {
+        "latitude": 52.3730796,
+        "longitude": 4.8924534
+    },
+    "Ljubljana": {
+        "latitude": 46.0500268,
+        "longitude": 14.5069289
+    },
+    "Stockholm": {
+        "latitude": 59.3251172,
+        "longitude": 18.0710935
+    },
+    "Johannesburg": {
+        "latitude": -26.205,
+        "longitude": 28.049722
+    },
+    "Cape": {
+        "latitude": 8.2260166,
+        "longitude": 123.4928834
+    },
+    "Barcelona": {
+        "latitude": 41.3828939,
+        "longitude": 2.1774322
+    },
+    "London": {
+        "latitude": 51.5074456,
+        "longitude": -0.1277653
+    },
+    "New York": {
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    "Singapore": {
+        "latitude": 1.357107,
+        "longitude": 103.8194992
+    },
+    "Frankfurt": {
+        "latitude": 50.1106444,
+        "longitude": 8.6820917
+    },
+    "Prague": {
+        "latitude": 50.0596288,
+        "longitude": 14.446459273258009
+    },
+    "Sao Paulo": {
+        "latitude": -23.5506507,
+        "longitude": -46.6333824
+    },
+    "Auckland": {
+        "latitude": -36.852095,
+        "longitude": 174.7631803
+    },
+    "Sydney": {
+        "latitude": -33.8698439,
+        "longitude": 151.2082848
+    },
+    "Denver": {
+        "latitude": 39.7392364,
+        "longitude": -104.984862
+    },
+    "Tokyo": {
+        "latitude": 35.6768601,
+        "longitude": 139.7638947
+    },
+    "Wellington": {
+        "latitude": -41.2887953,
+        "longitude": 174.7772114
+    },
+    "New Delhi": {
+        "latitude": 28.64308585,
+        "longitude": 77.21926705734865
+    },
+    "Hamburg": {
+        "latitude": 53.550341,
+        "longitude": 10.000654
+    },
+    "Sofia": {
+        "latitude": 42.6977028,
+        "longitude": 23.3217359
+    },
+    "Seattle": {
+        "latitude": 47.6038321,
+        "longitude": -122.330062
+    },
+    "Dallas": {
+        "latitude": 32.7762719,
+        "longitude": -96.7968559
+    },
+    "Nairobi": {
+        "latitude": -1.3026148499999999,
+        "longitude": 36.82884201813725
+    },
+    "Maputo": {
+        "latitude": -25.966213,
+        "longitude": 32.56745
+    },
+    "Antananarivo": {
+        "latitude": -18.9100122,
+        "longitude": 47.5255809
+    },
+    "Taipei": {
+        "latitude": 25.0375198,
+        "longitude": 121.5636796
+    },
+    "Hong Kong": {
+        "latitude": 22.350627,
+        "longitude": 114.1849161
+    },
+    "Santiago": {
+        "latitude": 9.8694792,
+        "longitude": -83.7980749
+    },
+    "Chennai": {
+        "latitude": 13.0836939,
+        "longitude": 80.270186
+    },
+    "Montreal": {
+        "latitude": 45.5031824,
+        "longitude": -73.5698065
+    },
+    "Mumbai": {
+        "latitude": 19.054999,
+        "longitude": 72.8692035
+    },
+    "Lisbon": {
+        "latitude": 38.7077507,
+        "longitude": -9.1365919
+    },
+    "Lima": {
+        "latitude": -12.0621065,
+        "longitude": -77.0365256
+    },
+    "Buenos Aires": {
+        "latitude": -34.6083696,
+        "longitude": -58.4440583
+    },
+    "Marseille": {
+        "latitude": 43.2961743,
+        "longitude": 5.3699525
+    },
+    "Milan": {
+        "latitude": 45.4641943,
+        "longitude": 9.1896346
+    },
+    "Athens": {
+        "latitude": 33.9597677,
+        "longitude": -83.376398
+    },
+    "Madrid": {
+        "latitude": 40.4167047,
+        "longitude": -3.7035825
+    },
+    "Stavanger": {
+        "latitude": 58.9699675,
+        "longitude": 5.7318101
+    },
+    "Calgary": {
+        "latitude": 51.0456064,
+        "longitude": -114.057541
+    },
+    "Winnipeg": {
+        "latitude": 49.8955367,
+        "longitude": -97.1384584
+    },
+    "Brussels": {
+        "latitude": 50.8465573,
+        "longitude": 4.351697
+    },
+    "Washington": {
+        "latitude": 38.8950368,
+        "longitude": -77.0365427
+    },
+    "San Francisco Bay Area": {
+        "latitude": 37.7884969,
+        "longitude": -122.3558473
+    },
+    "Perth": {
+        "latitude": -31.9558933,
+        "longitude": 115.8605855
+    },
+    "Spokane": {
+        "latitude": 47.6571934,
+        "longitude": -117.42351
+    },
+    "Vancouver": {
+        "latitude": 49.2608724,
+        "longitude": -123.113952
+    },
+    "Paris": {
+        "latitude": 48.8588897,
+        "longitude": 2.3200410217200766
+    },
+    "Moncton": {
+        "latitude": 46.0985679,
+        "longitude": -64.8004265
+    },
+    "Atlanta": {
+        "latitude": 33.7489924,
+        "longitude": -84.3902644
+    },
+    "Toronto": {
+        "latitude": 43.6534817,
+        "longitude": -79.3839347
+    },
+    "Monterrey": {
+        "latitude": 25.6802019,
+        "longitude": -100.315258
+    }
+}
